@@ -5,8 +5,8 @@ A python script, using ObsPy tools, to generate Global CMT solution catalogues.
 
 There are 2 files contained in this repository:
 
-1) A python script, pyGMT.py, which can be launched from a terminal, to generate the GCMT catalog.
-2) A jupyter notebook, pyGMT.ipynb, which generates the GCMT catalog and a map of the focal mechanisms for the downloaded events.
+1) A python script, pyGCMT.py, which can be launched from a terminal, to generate the GCMT catalog.
+2) A jupyter notebook, pyGCMT.ipynb, which generates the GCMT catalog and a map of the focal mechanisms for the downloaded events.
 
 There are 2 output files:
 
