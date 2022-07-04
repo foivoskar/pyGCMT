@@ -1,7 +1,7 @@
 # pyGCMT
 A python script, using ObsPy tools, to generate Global CMT solution catalogues.
 
-
+<a href="https://zenodo.org/badge/latestdoi/510420825"><img src="https://zenodo.org/badge/510420825.svg" alt="DOI"></a>
 
 There are 2 files contained in this repository:
 
