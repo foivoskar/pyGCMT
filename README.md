@@ -1,4 +1,4 @@
-# GCMTdownloader
+# pyGCMT
 A python script, using ObsPy tools, to generate Global CMT solution catalogues.
 
 
